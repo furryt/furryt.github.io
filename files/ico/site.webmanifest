@@ -1,0 +1,21 @@
+{
+    "name": "\u0424\u0443\u0440\u0440\u0438",
+    "short_name": "\u0424\u0443\u0440\u0440\u0438",
+    "icons": [
+        {
+            "src": "/files/ico/android-chrome-192x192.png?v=almOA89LW9",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/files/ico/android-chrome-512x512.png?v=almOA89LW9",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "http://furryt.ml",
+    "display": "standalone",
+    "orientation": "portrait"
+}
